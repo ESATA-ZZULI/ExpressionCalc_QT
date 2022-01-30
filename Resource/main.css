@@ -1,0 +1,19 @@
+QLabel{
+    background-color: white;
+    font-size: 60px;
+    font-family: 'Times New Roman', Times, serif;
+    padding-right: 10px;
+    border: rgb(200,200,200) solid 2px;
+}
+QWidget #moreopr{
+    background-color: white;
+    border: rgb(200,200,200) solid 2px;
+}
+QWidget #numberbtn{
+    background-color: white;
+    border: rgb(200,200,200) solid 2px;
+}
+QWidget #oprbtns{
+    background-color: white;
+    border: rgb(200,200,200) solid 2px;
+}

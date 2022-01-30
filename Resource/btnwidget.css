@@ -1,0 +1,12 @@
+QPushButton{
+    font-size: large;
+    min-height: 40px;
+    min-width: 40px;
+    background-color: rgb(224, 224, 224);
+    border: none;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+QPushButton:hover{
+    background-color: rgb(200, 200, 200);
+}

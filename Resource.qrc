@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Resource/btnwidget.css</file>
+        <file>Resource/main.css</file>
+    </qresource>
+</RCC>
